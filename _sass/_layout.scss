@@ -1,0 +1,33 @@
+.site-logo {
+    width: 220px;
+    height: 75px;
+    object-width:contain;
+    position: relative;    
+    left: -170px;
+}
+
+.iframe-wrapper {
+    position: relative;
+    width: 100%;
+    height: 1200px;
+    overflow: hidden;
+}
+
+
+// .iframe-wrapper_height_initial {
+//     height: 650px;
+// }
+
+// .iframe-wrapper_height_expand {
+//     height: 1200px;
+// }
+
+
+
+#frame {
+    position: absolute;
+    top: -100px;
+    width: 1200px;
+    height: 1600px;
+    overflow: hidden;
+}
